@@ -1,0 +1,188 @@
+Name,City,Address,Lat,Lng,Code,Unknown 1,Unknown (City) 2,Timing (Mon-to-Sat),Timing (Friday),Status,Break,Unknown 3,Unknown 4,Unknown 5
+,Abbottabad,Small Industry Exchange Near Small Industry Mosque Mandian Abbottabad,34.14848,73.2098,CC_JS Abbottabad,5,,9:00 AM to 5:30 PM,,CLOSED,,1,688,1:00 PM to 2:00 PM
+,Abbottabad,Near PTCL Exchange Pine View Road Abbottabad,34.08927,73.12608,JS-Abbottabad pine view,5,,09:00 am - 05:30 pm,,CLOSED,,1,689,1:00 PM - 2:00 PM
+,Ahmed Pur East,PTCL Exchange Ahmadpur East,29.143814,71.257793,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,462,1:00 PM to 2:00 PM
+,Alipur,PTCL Exchange Alipur,29.390539,70.916905,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,516,1:00 PM to 2:00 PM
+,Arifwala,PTCL Exchange Qaboola Chowk Arifwala,30.286632,73.069275,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,532,1:00 PM to 2:00 PM
+,Attock,Ufone PTCL Joint Shop Kutchery Road Opposite DPO Office Attock,33.77369,72.360575,CC_JS- ATTOCK,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,440,1:00 PM to 2:00 PM
+,Bahawal Nagar,PTCL Telephone Exchange Bahawal Nagar,30.000101,73.25779,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,533,1:00 PM to 2:00 PM
+,Bahawalpur,PTCL Exchange Model Town Bahawalpur,29.397637,71.66169,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,585,1:00 PM to 2:00 PM
+,Bahawalpur,PTCL Exchange Satellite Town Bahawalpur,29.390975,71.710543,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,463,1:00 PM to 2:00 PM
+,Bannu,Ufone PTCL Joint Shop Old PTCL Colony Near Mission Hospital Bannu,32.990589,70.604395,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,592,1:00 PM to 2:00 PM
+,Bhalwal,PTCL OSS Adjacent Telephone Exchange Lari Adda Road,32.272381,72.900596,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,486,1:00 PM to 2:00 PM
+,Burewala,PTCL Telephone Exchange Burewala,30.164213,72.68118,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,534,1:00 PM to 2:00 PM
+,Chakwal,One Stop Shop PTCL Microwave Exchange Main Talagang Road Chakwal,32.9316705,72.8493728,CC_JS CHAKWAL,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,465,1:00 PM to 2:00 PM
+,Charsadda,Near PTCL Exchange Nowshera Road Charsadda,34.15807,71.73484,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,572,1:00 PM to 2:00 PM
+,Chichawatni,PTCL Exchange Chichawatni,30.529452,72.683214,CC_JS CHICHAWATNI,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,535,1:00 PM to 2:00 PM
+,Chishtian,PTCL Telephone Exchange Chishtian,29.798502,72.85823,CC_JS CHISTIAN,1,,9:00 AM to 5:00 PM,,,,1,692,1:00 PM to 2:00 PM
+,D.I. KHAN,"Ufone PTCL Joint Shop, Near Telephone Exchange D.I. Khan",31.821829,70.919578,CC_JS D.I. KHAN,5,,9:00 AM to 5:30 PM,,CLOSED,,1,702,1:00 PM to 2:00 PM
+,Daska,Telephone Exchange Near Civil Hospital Daska,32.3311215,74.3435862,CC_JS Daska,0,,9:00 AM to 5:00 PM (Break 1PM - 2PM),9:00 AM to 5:00 PM,CLOSED,,1,447,1:00 PM to 2:00 PM
+,Depalpur,PTCL Exchange Nearby Kachehry Chowk Deepalpur,30.673065,73.646426,CC_JS DEPALPUR,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,537,1:00 PM to 2:00 PM
+,DG Khan,PTCL Exchange DG Khan,30.048853,70.630407,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,517,1:00 PM to 2:00 PM
+,D.I. KHAN,"Ufone PTCL Joint Shop, Near Telephone Exchange DI Khan",31.821829,70.919578,CC_JS DI KHAN,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,573,1:00 PM to 2:00 PM
+,Faisalabad,Adjacent Telephone Exchange?Sargodha Road Bolay Di Jughi Faisalabad,31.445536,73.088951,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,550,1:00 PM to 2:00 PM
+,Faisalabad,Adjacent Telephone Exchange Mandi Road Ghulam Muhammad Abad Faisalabad,31.43572,73.03795,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,581,1:00 PM to 2:00 PM
+,Faisalabad,Joint Shop Chiniot Bazar CTX PTCL Exchange opposite Chiniot Bazar Circular Road Faisalabad,31.423156,73.076347,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,610,1:00 PM to 2:00 PM
+,Faisalabad,"ADJECENT TO PTCL EXCHANGE, CHEN ONE ROAD, PEOPLE COLONY # 1, OPPOSITE TO PSO PETROL PUMP, FAISALABAD",31.409556,73.109212,CC_JS-D GROUND FSD,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,632,1:00 PM to 2:00 PM
+CC_JS SAMANABAD FAISALABAD,Faisalabad,Adjacent Telephone Exchange Samanabad Faisalabad,31.386978,73.066527,,1,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,441,1:00 PM to 2:00 PM
+,Faisalabad,Inside Telephone Exchange Jhang Road Faisalabad,31.405958,73.041159,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,442,1:00 PM to 2:00 PM
+,Farooq Abad,OSS Telephone Exchange Farooq Abad,31.740183,73.833881,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,443,1:00 PM to 2:00 PM
+,Gojra,Adjacent Telephone Exchange Gojra,31.151286,72.681957,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,469,1:00 PM to 2:00 PM
+,Gujranwala,Near HBL Mian Market Wapda Town Gujranwala,32.092304,74.184291,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,567,1:00 PM to 2:00 PM
+,Gujranwala,"OSS Trust Plaza, ground floor, Gujranwala",32.173697,74.182332,JS Trust Plaza Gujranwala,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,611,1:00 PM to 2:00 PM
+,Gujranwala,Model Town G-T Road Tele Phone Exchange Gujranwala,32.176853,74.182911,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,448,1:00 PM to 2:00 PM
+,Gujrat,OSS CTX Near Eid Gah G-T Road Gujrat,32.589842,74.080911,CC_JS CTX GUJRAT,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,493,1:00 PM to 2:00 PM
+,Haripur,OSS Near Main Telephone Exchange Main Khan Pur Road Opposite TIP Factory Haripur,33.97598,72.92147,CC_JS HARIPUR,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,479,1:00 PM to 2:00 PM
+,Haroonabad,PTCL Telephone Exchange Haroon Abad,29.61235,73.139502,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,538,1:00 PM to 2:00 PM
+,Hasilpur,PTCL Telephone Exchange Hasilpur,29.696118,72.555665,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,539,1:00 PM to 2:00 PM
+,Hyderabad,Near Telecomm Building Unit No-07 Latifabad Hyderabad,25.36937,68.35646,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,546,1:00 PM to 2:00 PM
+,Hyderabad,Opposite NBP Main Branch CTO Compound Hyderabad,25.38598,68.36078,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,598,1:00 PM to 2:00 PM
+,Hyderabad,Telecomm Building Main Road Qasimabad,25.39348,68.33547,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,599,1:00 PM to 2:00 PM
+,Hyderabad,Belkhana Exchange? Market City Hyderabad,25.399357,68.372065,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,482,1:00 PM to 2:00 PM
+,Islamabad,PTCL Exchange Street 19 Sector -C Phase-8 Bahria Town Rawalpindi,33.493922,73.081266,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,529,1:00 PM to 2:00 PM
+,Islamabad,Ufone PTCL Joint Shop Telephone Exchange Near Bus Stop Lehtrar Road Islamabad,33.6416274,73.1561455,CC_JS TARLAI ISB,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,530,1:00 PM to 2:00 PM
+,Islamabad,PTCL OSS F-8 Main Nazim Ud Din Road Islamabad - F-8 Exchange,33.70125,73.03662,CC_JS F-8 ISB,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,554,1:00 PM to 2:00 PM
+,Islamabad,3rd Road Near Post Office G-10 Markaz Islamabad,33.679054,73.017506,CC_JS G-10 ISB,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,557,1:00 PM to 2:00 PM
+,Islamabad,Joint Shop PTCL ITR Building Near Marriot Hotel F-5-1 Islamabad,33.72971,73.090198,CC_JS F-5 ISB,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,558,1:00 PM to 2:00 PM
+,Islamabad,PTCL Exchange Telephone Exchange Near Graveyard Phase-IV Behria Town Islamabad,33.551898,73.123188,CC_JS BEHRIA TOWN-4 ISB,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,591,1:00 PM to 2:00 PM
+,Islamabad,Sitara Market Near Post Office G-7 Markaz Islamabad,33.704372,73.068539,CC_JS G-7 ISB,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,593,1:00 PM to 2:00 PM
+,Islamabad,I-10-3 Exchange Main Road I-10 Markaz Islamabad,33.649394,73.041005,CC_JS-1-10/3 ISB,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,620,1:00 PM to 2:00 PM
+,Islamabad,Plot-13-B F-7 Markaz Jinnah Super Market,33.722747,73.058935,CC_ISB,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,631,1:00 PM to 2:00 PM
+,Islamabad,"Ufone PTCL Joint Shop ,Ptcl Telephone Exchange F/11 Markaz Isb",33.684534,72.991276,CC_JS F-11 ISLAMABAD,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,636,1:00 PM to 2:00 PM
+CC_JS BAHRIA ENCLAVE,Islamabad,"Ufone PTCL Joint Shop, Sector A Bahria Enclave, Malot, Islamabad",33.692595,73.214226,CC_JS BAHRIA ENCLAVE,5,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,674,1:00 PM to 2:00 PM
+,Islamabad,Ufone PTCL Joint Shop Simply Dam Road Barakahu Islamabad,33.732216,73.197887,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,481,1:00 PM to 2:00 PM
+,Jehlum,Kazim Kamal Road PTCL Compound Jhelum Cantt,32.92496,73.72224,CC_JS JHELUM,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,555,1:00 PM to 2:00 PM
+,Jhang,"PTCL Revenue Office, Adjacent JS Jhang, PTCL Telephone Exchange, Jhang",31.272414,72.3184031,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,582,1:00 PM to 2:00 PM
+,Kabirwala,PTCL Exchange Kabirwala,30.410206,71.875033,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,518,1:00 PM to 2:00 PM
+,Kamoki,PTCL OSS Kamoki - Kamoki Telephone Exchange,31.985606,74.220996,CC_JS KAMOKI,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,449,1:00 PM to 2:00 PM
+,Karachi,PTCL Smart Shop Landhi Telephone Exchange Near Landhi-89 Karachi,24.846844,67.206369,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,563,1:00 PM to 2:00 PM
+,Karachi,Joint Shop West Wharf KHI PTCL Exchange Opposite Benazir Sports Complex West Wharf Road Karachi,24.849618,66.990367,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,564,1:00 PM to 2:00 PM
+,Karachi,"PTCL / UFONE SMART SHOP JS Pak Capital Pak Capital Telephone Exchange, Near Faizan e Madina, Old Sabzi Mandi University Road Karachi",24.8933951,67.0616902,CC_JS PAK CAPITAL KHI,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,575,1:00 PM to 2:00 PM
+,Karachi,LEA Market Exchange Building D-D Chaudhry Road Baghdadi Lyari Town Karachi,24.86071,66.9968,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,576,1:00 PM to 2:00 PM
+,Karachi,Joint Shop Clifton Hatim Alvi Road Clifton Karachi,24.814024,67.030005,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,577,1:00 PM to 2:00 PM
+,Karachi,Smart Shop Gulshan-e-Iqbal Main University Road Adjacent Gulshan Exchange Karachi,24.91335,67.09062,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,600,1:00 PM to 2:00 PM
+,Karachi,PTCL Smart Shop Karachi Airport Exchange Building Main Shahrah-e-Faisal Near Star Gate,24.88721,67.14902,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,601,1:00 PM to 2:00 PM
+,Karachi,Service Center Malir Model Colony Model Colony PTCL Exchange,24.8966,67.18992,CC_JS MALIR MODEL COLONY KHI,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,602,1:00 PM to 2:00 PM
+,Karachi,Opposite Zological Garden Verly Road Saddar Karachi,24.87415,67.02435,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,603,1:00 PM to 2:00 PM
+,Karachi,PTCL Smart Shop Block-12 Gulistan-e-Johar Karachi,24.91682,67.13351,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,604,1:00 PM to 2:00 PM
+,Karachi,AOTR Building Block-B North Nazimabad Near Asghar Hospital,24.92418,67.03451,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,605,1:00 PM to 2:00 PM
+,Karachi,PTCL Smart Shop Gulzar-e-Hijri Exchange Scheme-33 Metrovil-III Gulzar-e-Hijri Karachi,24.94883,67.10679,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,606,1:00 PM to 2:00 PM
+,Karachi,PTCL Shop Cantt Exchange Building Behind Marriot Hotel Near Karachi Club Karachi,24.84428,67.03046,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,607,1:00 PM to 2:00 PM
+,Karachi,Telephone Exchange Gulshan-e-Hadeed Phase-2 Karachi,24.87168,67.35946,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,608,1:00 PM to 2:00 PM
+,Karachi,"UFONE SERVICE CENTER, PLOT # D-3, BLOCK-D, NORTH NAZIM ABAD KARACHI NEAR FIVE STAR ROUNDABOUT KARACHI",24.94196,67.046148,CC_HYDERI,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,609,1:00 PM to 2:00 PM
+,Karachi,Naseerabad FB Area Azizabad Karachi,24.931042,67.070356,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,624,1:00 PM to 2:00 PM
+,Karachi,Plot-37 Khayaban-e-Muhafiz Phase-VI DHA PTCL Misrishah Exchange Karachi,24.837305,67.060176,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,625,1:00 PM to 2:00 PM
+,Karachi,Street-7-A Sector-11-I North Karachi,24.976131,67.066474,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,626,1:00 PM to 2:00 PM
+,Karachi,Orangi Town Exchange Building Sector-4 Orangi Town Karachi,24.937649,66.998696,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,627,1:00 PM to 2:00 PM
+,Karachi,Plot-H-8 Site Karachi,24.902976,66.99093,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,628,1:00 PM to 2:00 PM
+,Karachi,Plaza Qtrs Noman Street-Off MA Jinnah Road Karachi,24.863674,67.022629,CC_JS-JINNAH ROAD KHI,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,629,1:00 PM to 2:00 PM
+,Karachi,Central Exchange Building Talpur Road-Off II Chundriger Road Karachi,24.849779,67.002109,,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,638,1:00 PM to 2:00 PM
+,Karachi,2-B Link Avenue Defence Phase-II Karachi,24.837239,67.06029,CC_JS-DHA KHI,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,639,1:00 PM to 2:00 PM
+,Karachi,Korangi Telephone Exchange Korangi Karachi,24.84025,67.14629,,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,640,1:00 PM to 2:00 PM
+,Karachi,Smart Shop G-Maymar? Sect X-1 Gulshan-e-Maymar Karachi,25.019213,67.13062,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,466,1:00 PM to 2:00 PM
+,Kasur,Ufone PTCL Joint Shop Telephone Exchange Circular Road Kasur,31.118021,74.452015,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,501,1:00 PM to 2:00 PM
+,Khanewal,PTCL Exchange Khanewal,30.303295,71.921639,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,519,1:00 PM to 2:00 PM
+,Khanpur,PTCL Exchange Khanpur,28.644283,70.650667,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,520,1:00 PM to 2:00 PM
+CC_JS KHARIAN,Kharian,Building Delta Travel Agency? G-T Road Kharian,32.796075,73.8787192,,5,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,494,1:00 PM to 2:00 PM
+,Khudian,Ufone PTCL Joint Shop Telephone Exchange Makka Town Khudian Khass,30.981889,74.269523,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,453,1:00 PM to 2:00 PM
+,Khurrianwala,Adjacent Telephone Exchange? Khurrianwala,31.499173,73.272451,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,470,1:00 PM to 2:00 PM
+,Kot Addu,PTCL Exchange Kot Addu,30.470749,70.964447,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,521,1:00 PM to 2:00 PM
+,Kot Radha Kishan,Ufone PTCL Joint Shop Telephone Exchange Kot Radha Kishan,31.166718,74.10665,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,474,1:00 PM to 2:00 PM
+,Lahore,PTCL Exchange Band Road Near Chohan Road Lahore Sanda,31.567355,74.28237,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,513,1:00 PM to 2:00 PM
+,Lahore,Ufone PTCL Joint Shop-2 Abid Majeed Road PTCL Exchange Girja Chock Lahore Cantt,31.522359,74.380454,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,551,1:00 PM to 2:00 PM
+CC_JS GARDEN TOWN,Lahore,Ufone PTCL Joint Shop-1 Tipu Block Garden Town Exchange Near Kalma Chowk Lahore,31.503754,74.330648,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,584,1:00 PM to 2:00 PM
+,Lahore,2-CC Ghazi Road Near PTCL Telephone Exchange S-Block DHA Lahore,31.471616,74.391678,CC_JS-DHA LHR,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,612,1:00 PM to 2:00 PM
+,Lahore,"PTCL Telephone Exchange, Moon Market, Gulshan Ravi",31.55203,74.282635,CC_JS-GULSHAN RAVI LHR,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,613,1:00 PM to 2:00 PM
+,Lahore,PTCL Johar Town Exchange Near Shaukat Khanam Hospital Lahore,31.46014,74.26262,CC_JS-JOHAR TOWN,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,614,1:00 PM to 2:00 PM
+,Lahore,"1- McLeod Rd opp GPO Building, The Mall, Lahore",31.566102,74.31554,CC_JS-CTH LHR,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,615,1:00 PM to 2:00 PM
+,Lahore,15-S- Gulberg II Mini Market Lahore,31.522718,74.354208,CC_GULBERG,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,630,1:00 PM to 2:00 PM
+,Lahore,26 Civic Center Barkat Market Garden Town Lahore,31.49996,74.32049,CC_JS-BARKET MARKET LHR,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,633,1:00 PM to 2:00 PM
+,Lahore,"PTCL Exchange Guldasht Town Near Ranger HQS, Zarrar Shaheed Road, Opposite NADRA Office",31.545885,74.41653,CC_JS-GULDASHT,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,634,1:00 PM to 2:00 PM
+,Lahore,Main Ferozpur Road Khana Nau Exchange Lahore,31.376275,74.364264,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,635,1:00 PM to 2:00 PM
+,Lahore,"OSS Guldasht Town Near Ranger Hqs\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""\""",31.545885,74.41653,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,439,1:00 PM to 2:00 PM
+,Lahore,Ufone PTCL Joint Shop Plot-1 Block-B4 Wapda Town,31.4394835,74.2810029,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,454,1:00 PM to 2:00 PM
+,Lahore,OSS Multan Road Near Coca Cola Stop Main Multan Road Lahore,31.512447,74.273608,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,456,1:00 PM to 2:00 PM
+,Lahore,Mustafa Town Exchange Lahore,31.494516,74.27276,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,457,1:00 PM to 2:00 PM
+,Lahore,Samnabad Exchange Lahore,31.538479,74.308017,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,458,1:00 PM to 2:00 PM
+,Lahore,Shahalam Exchange Circular Road Lahore,31.575335,74.318177,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,459,1:00 PM to 2:00 PM
+,Lahore,21-C Kashmir Block Allama Iqbal Town Lahore,31.518664,74.290901,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,460,1:00 PM to 2:00 PM
+,Lahore,"PTCL Telephone Exchange, near Bank Al Habib, Misri Shah, Lahore",31.592198,74.335161,CC_JS MISRISHAH LAHORE,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,461,1:00 PM to 2:00 PM
+,Lahore,Ufone PTCL Joint Shop Mominpura Lahore,31.589423,74.42305,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,475,1:00 PM to 2:00 PM
+,Lahore,Ufone PTCL Joint Shop Telephone Exchange G-T Road Baghban Pura Lahore,31.578901,74.370743,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,476,1:00 PM to 2:00 PM
+,Lahore,Ufone PTCL Joint Shop Block Takbeer Behind Cinigold Cinema Bahria Town Lahore,31.38826,74.191491,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,502,1:00 PM to 2:00 PM
+,Lahore,Ufone PTCL Joint Shop No 5-6 Ground Floor Al-Hafeez Shopping Mall Main Boulevard,31.51398,74.343364,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,503,1:00 PM to 2:00 PM
+,Lahore,Ufone PTCL Joint Shop 6-A Civic Center Faisal Town Lahore,31.4751,74.306909,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,504,1:00 PM to 2:00 PM
+,Lahore,Ufone PTCL Joint Shop Ghazi Chowk Near General Hospital Ferozepur Road Lahore,31.457951,74.351512,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,505,1:00 PM to 2:00 PM
+,Lahore,Ufone PTCL Joint Shop Township Hamdard Chowk PTCL Exchange,31.445261,74.318951,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,506,1:00 PM to 2:00 PM
+,Lahore,Ufone PTCL Joint Shop 6-D-1 Gulberg Exchange Lahore,31.516132,74.347542,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,507,1:00 PM to 2:00 PM
+,Lahore,OSS Badami Bagh Exchange Lahore,31.596226,74.306988,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,510,1:00 PM to 2:00 PM
+,Lahore,"PTCL Telephone Exchange, 11 Egerton Rd, Lahore",31.560687,74.3296,CC_JS EGERTON ROAD LAHORE,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,511,1:00 PM to 2:00 PM
+,lala Musa,Telephone Exchange Lala Musa Near Committee Office,32.705405,73.955282,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,450,1:00 PM to 2:00 PM
+,Larkana,PTCL Smartshop Larkana Near GPO Office Larkana,27.55537,68.21485,CC_JS LARKANA OLD TELEPHONE EXCHANG,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,548,1:00 PM to 2:00 PM
+,Layyah,PTCL Exchange Layyah,30.966671,70.953346,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,522,1:00 PM to 2:00 PM
+,Liaqatpur,Ufone PTCL Joint Shop PTCL Exchange Liaqat Pur,28.936945,70.94845,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,523,1:00 PM to 2:00 PM
+,Mandi Bahauddin,Telephone Exchange Mandi Bahaudin Opposite Govt High School Thana Road,32.583673,73.494003,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,495,1:00 PM to 2:00 PM
+,Mansehra,Main Telephone Exchange Kashmir Road Manshera,34.33693,73.204544,CC_JS MANSEHRA,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,556,1:00 PM to 2:00 PM
+,Mardan,PTCL Ufone Service Center Near Main Telephone Exchange Mardan,34.194302,72.034535,CC_JS MARDAN,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,559,1:00 PM to 2:00 PM
+,Mian Channu,PTCL Telephone Mian Channu,30.444464,72.354799,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,540,1:00 PM to 2:00 PM
+,Mirpur,PTCL Ufone Joint Shop Opp Alam Marriage Hall Allama Iqbal Road Mirpur AJK,33.149091,73.738042,CC_JS MIRPUR AJK,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,568,1:00 PM to 2:00 PM
+,Mirpurkhas,PTCL Smart Shop City Revenue Office PTCL Near Main GPO Chowk Mirpurkhas,25.52738,69.015256,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,578,1:00 PM to 2:00 PM
+,Multan,PTCL Exchange Opposite Old Coca Factory Mumtazabad Multan,30.172662,71.479984,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,525,1:00 PM to 2:00 PM
+,Multan,PTCL Exchange Near 6-Chungi Gulgasht Multan,30.242221,71.484719,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,586,1:00 PM to 2:00 PM
+,Multan,PTCL Exchange Opposite Metro Station New Multan,30.20432,71.515618,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,587,1:00 PM to 2:00 PM
+,Multan,"Ufone PTCL Joint Shop, CTX Dera Adda Exchange, Near Nawan Sher Multan",30.191133,71.452689,CC_JS-DERA ADDA MULTAN,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,616,1:00 PM to 2:00 PM
+CC_JS MURIDKEY,Muridkey,PTCL Exchange 1 KM Narowal Road Shahzad Town Muridkey,31.81434,74.263937,,1,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,673,1:00 PM to 2:00 PM
+,Muzaffarabad,PTCL/Ufone Joint shop near Opposite Rahat Bakers Adjacent to Tahzeeb Bakers/Bank Islamic Domail road Muzaffarabad,34.35512,73.4715,CC_JS MUZAFFARABAD AJK,5,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,569,1:00 PM to 2:00 PM
+,Nankana,OSS Telephone Exchange Near Larry Adda Nankana Sahib,31.451225,73.713793,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,488,1:00 PM to 2:00 PM
+,Narang Mandi,"PTCL Exchange, Near MCB bank, Rafiqabad, Narang Mandi",31.90275,74.51443,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,477,1:00 PM to 2:00 PM
+,Narowal,Mini OSS PTCL Exchange Narowal,32.103807,74.866189,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,451,1:00 PM to 2:00 PM
+,Nawabshah,PTCL Smart Shop Near Sehraz Chowk Kachehry Road Nawabshah,26.24909,68.40654,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,579,1:00 PM to 2:00 PM
+,Nowshera,Near PTCL Exchange By Pass Road Near Railway Station Nowshera Cantt,34.0001,72.001,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,531,1:00 PM to 2:00 PM
+,Nowshera Wirkan,Mini OSS Telephone Exchange Tatlayali Road Nowshera Virkan,31.9896179,74.1271772,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,496,1:00 PM to 2:00 PM
+,Okara,PTCL Telephone Exchange MA Jinnah Road Okara,30.804932,73.436828,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,541,1:00 PM to 2:00 PM
+,Pakpattan,PTCL Telephone Exchange Near Gallah Mandi Pakpattan,30.35266,73.391684,CC_JS PAKPATTAN,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,542,1:00 PM to 2:00 PM
+,Pasroor,Telephone Exchange Pasroor Near Girls Degree College,32.264301,74.652043,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,472,1:00 PM to 2:00 PM
+,Pattoki,PTCL Telephone Exchange Pattoki,31.019053,73.851951,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,543,1:00 PM to 2:00 PM
+,Peshawar,PTCL Khyber Exchange Opposite Chief Burger Main University Road Peshawar,34.001964,71.496681,CC_JS KHYBER UNIVERSITY ROAD PESHAWAR,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,560,1:00 PM to 2:00 PM
+,Peshawar,PTCL Office Building OSS Industrial Estates Jamrud Road Peshawar,33.9857,71.4172,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,570,1:00 PM to 2:00 PM
+,Peshawar,Adjacent To BM Cantt Exchange PTCL Sher Shah Suri Road Peshawar Cantt,34.0002011,71.499499,CC_JS CANTT PESHAWAR,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,574,1:00 PM to 2:00 PM
+,Peshawar,"JS Hayatabad, near CIVIC Center, phase 2, Hayatabad",33.9685889,71.443094,CC_JS-HAYATABAD PESHAWAR,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,621,1:00 PM to 2:00 PM
+,Peshawar,Ufone PTCL Joint Shop Khyber Bazar Peshawar,34.009963,71.565975,CC_JS KHYBER BAZAR PESHAWAR,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,622,1:00 PM to 2:00 PM
+,Phalia,Mini OSS Telephone Exchange Nr-Hella Chungi Phalia,32.4337902,73.5854101,CC_JS PHALIA,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,497,1:00 PM to 2:00 PM
+,Quetta,PTCL Smart Shop CTO Besides Main GPO Zarghoon Road Quetta,30.20021,67.00793,"CC_JS CTO COMPOUND, QUETTA",0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,566,1:00 PM to 2:00 PM
+,Quetta,PTCL Smart Shop- Sharah-e-Jaffar Khan Jamali Road Quetta,30.20062,67.00486,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,580,1:00 PM to 2:00 PM
+,Quetta,Telephone Exchange Burma Hotel Near Old AG Office Sariab Road Quetta,30.15676,66.98564,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,467,1:00 PM to 2:00 PM
+,Quetta,OSS City Mecongy Road Abdul Aziz Street Quetta,30.18595,67.01548,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,468,1:00 PM to 2:00 PM
+,Quetta,Smart Shop Near Pearls Institute Alamdar Road Quetta,30.190795,67.026083,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,483,1:00 PM to 2:00 PM
+,Quetta,"Brewery Exchange, Brewery Road, Near Bolan Medical Complex Hospital, Quetta",30.18748,66.97378,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,484,1:00 PM to 2:00 PM
+,Quetta,Telephone Exchange Chaghi Road Quetta Cantt,30.20956,67.04151,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,485,1:00 PM to 2:00 PM
+,Rahim Yar Khan,PTCL Exchange Rahim Yar Khan,28.422883,70.309536,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,588,1:00 PM to 2:00 PM
+,Raiwind,Ufone PTCL Joint Shop Sundar Road Telephone Exchange Raiwind,31.246853,74.212916,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,508,1:00 PM to 2:00 PM
+,Rawalpindi,Ufone PTCL Joint Shop Near Social Security Hospital Adjacent PTCL Exchange Main IJP Road Rawalpindi,33.619873,73.001628,CC_JS WESTRIDGE RAWALPINDI,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,561,1:00 PM to 2:00 PM
+,Rawalpindi,PTCL OSS Kashmir Road Saddar Rawalpindi,33.593281,73.049241,"CC_JS CANTT SHOP, RAWALPINDI",0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,571,1:00 PM to 2:00 PM
+,Rawalpindi,Ufone PTCL Joint Shop Kashmiri Bazar Rawalpindi,33.612358,73.054207,CC_JS RAJA BAZAR CITY RAWALPINDI,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,595,1:00 PM to 2:00 PM
+,Rawalpindi,"Joint Shop (Ufone & PTCL), 7th road S-Town rawalpindi",33.64509,73.069911,CC_JS SATELLITE TOWN RAWALPINDI,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,596,1:00 PM to 2:00 PM
+,Rawalpindi,"Ufone PTCL Joint Shop, Chaklal Opp Fouji Tower Rwp",33.606864,73.084952,CC_JS-CHAKLALA RWP,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,623,1:00 PM to 2:00 PM
+,Renalakhurd,PTCL Telephone Exchange Anwar Shaheed Colony Renala Khurd,30.874299,73.591662,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,544,1:00 PM to 2:00 PM
+,Sadiqabad,PTCL Exchange Sadiqabad,28.310655,70.129089,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,527,1:00 PM to 2:00 PM
+,Sahiwal,"PTCL Ufone Joint Shop, Telephone Exchange, Mission Chowk (Infront of 1122 Office), Sahiwal.",30.66884,73.103473,"CC_JS MISSION CHOWK, SAHIWAL",0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,545,1:00 PM to 2:00 PM
+,Sambrial,Mini OSS PTCL Exchange Sambrial,32.477759,74.345525,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,473,1:00 PM to 2:00 PM
+,Samundri,"OSS PTCL Telephone Exchange Nehar Bazar, Samundri",31.060732,72.961834,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,489,1:00 PM to 2:00 PM
+,Sargodha,Inside Telephone Exchange Iqbal Town Sargodha,32.072313,72.669476,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,583,1:00 PM to 2:00 PM
+,Sargodha,Adjacent Telephone Exchange Iqbal Colony Sargodha,32.09726,72.67387,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,445,1:00 PM to 2:00 PM
+,Shahdara,PTCL Telephone Exchange Sheikhupura Road Shahdara,31.6180443,74.283427,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,617,1:00 PM to 2:00 PM
+,Shahkot,OSS Telephone Exchange Shah Kot,31.574767,73.483506,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,446,1:00 PM to 2:00 PM
+,Shakar Garh,Mini OSS Telephone Exchange Railway Road Shakargarh,32.263635,75.160759,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,498,1:00 PM to 2:00 PM
+,Sharaqpur,OSS Telephone Exchange Sharaqpur Near Rural Health Center Sharqpur,31.465968,74.093511,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,515,1:00 PM to 2:00 PM
+,Sheikhupura,OS Telephone Exchange Opposite Railways Station Qila Sheikhupura,31.717226,73.977837,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,478,1:00 PM to 2:00 PM
+,Shujabad,PTCL Exchange Shujabad,29.879846,71.310565,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,464,1:00 PM to 2:00 PM
+,Sialkot,"Adjacent to CTX, Paris Road, Sialkot",32.498972,74.538694,"JS Paris Road, Sialkot",0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,618,1:00 PM to 2:00 PM
+,Sialkot,Mini OSS PTCL Exchange Site Sialkot,32.486817,74.517671,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,452,1:00 PM to 2:00 PM
+,Sialkot,Pakistan Chowk Telephone Exchange Cantt Sialkot,32.519326,74.5406525,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,499,1:00 PM to 2:00 PM
+,Sukkur,PTCL Smart Shop Minara Road Sukkur,27.695178,68.868877,CC_JS SUKKUR,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,549,1:00 PM to 2:00 PM
+,Swat,Ufone PTCL Joint Shop Telephone Exchange Makan Bagh,34.7682111,72.3559087,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,597,1:00 PM to 2:00 PM
+,Taunsa,Ufone PTCL Joint Shop PTCL Exchange Taunsa Sharif,30.709616,70.651539,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,528,1:00 PM to 2:00 PM
+,Toba Tek Singh,Main Telephone Exchange Toba Tek Singh,30.969774,72.477125,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,491,1:00 PM to 2:00 PM
+,Vehari,PTCL Exchange Vehari,30.038078,72.354415,,0,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,589,1:00 PM to 2:00 PM
+CC_JS WAH CANTT,Wah Cantt,"Ufone PTCL Joint Shop, Aslam Market Wah Cantt",33.763912,72.769761,,0,,9:00 AM to 5:30 PM,9:00 AM to 5:00 PM,CLOSED,,1,562,1:00 PM to 2:00 PM
+CC_JS WAZIR ABAD,Wazir Abad,Mini OSS PTCL Exchange Sambrial Road Wazir Abad,32.4405578,74.1167434,,5,,9:00 AM to 5:00 PM,9:00 AM to 5:00 PM,CLOSED,,1,500,1:00 PM to 2:00 PM
