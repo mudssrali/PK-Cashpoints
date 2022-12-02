@@ -13,7 +13,7 @@ At the moment, this repository contains cash-points locations for the following 
 
 Geo-coded locations data only available for `ufone`. For other vendors, have write a [Node Script](https://gist.github.com/mudssrali/8f48a3690ef74a705a835b434a94805e) which is using Google Maps - Geolocation API to get geocodes from the given address and append into source CSV.
 
-- [ ] Easypaisa (WIP)
+- [x] Easypaisa
 - [ ] Jazzcash
 - [x] Ufone - Upaisa
 - [ ] Zong - PayMax
